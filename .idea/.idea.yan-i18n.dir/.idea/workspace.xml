@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0708ae71-d92e-4ef2-852e-229a27fb4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Description_es.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Description_fr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Description_ge.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ua.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Description_ru.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ru.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.yan-i18n.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.yan-i18n.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Description_en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Description_en.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +58,21 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Description ua" />
     <MESSAGE value="Description_ua.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Description_ua.txt" />
+    <MESSAGE value="Translation ua.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Translation ua.json" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="645" y="135" key="CommitChangelistDialog2" timestamp="1620303954173">
+    <state x="645" y="135" key="CommitChangelistDialog2" timestamp="1620305024193">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="645" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1620303954173" />
+    <state x="645" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1620305024193" />
     <state x="492" y="184" key="SettingsEditor" timestamp="1620299428354">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="492" y="184" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1620299428354" />
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1620303956557">
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1620305025901">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1620303956557" />
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1620305025901" />
   </component>
 </project>
