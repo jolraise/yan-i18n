@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,20 +55,21 @@
     <MESSAGE value="yan i18n initial commit" />
     <MESSAGE value="Update" />
     <MESSAGE value="Description ua" />
-    <option name="LAST_COMMIT_MESSAGE" value="Description ua" />
+    <MESSAGE value="Description_ua.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Description_ua.txt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="645" y="135" key="CommitChangelistDialog2" timestamp="1620302211390">
+    <state x="645" y="135" key="CommitChangelistDialog2" timestamp="1620302435633">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="645" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1620302211390" />
+    <state x="645" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1620302435633" />
     <state x="492" y="184" key="SettingsEditor" timestamp="1620299428354">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="492" y="184" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1620299428354" />
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1620302213399">
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1620302436926">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1620302213399" />
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1620302436926" />
   </component>
 </project>
