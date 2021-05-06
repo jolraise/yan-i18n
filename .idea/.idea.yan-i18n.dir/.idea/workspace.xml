@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0708ae71-d92e-4ef2-852e-229a27fb4431" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Description_ua.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.yan-i18n.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.yan-i18n.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Description_en.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Description_en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Description_en.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +13,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Description_en.txt" />
+        <option value="$PROJECT_DIR$/Description_ua.txt" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1s9z54nTuCslwZfBmpwvLgjU7CA" />
   <component name="ProjectViewState">
@@ -22,6 +31,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -36,20 +51,21 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="yan i18n initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="yan i18n initial commit" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="645" y="135" key="CommitChangelistDialog2" timestamp="1620299609220">
+    <state x="645" y="135" key="CommitChangelistDialog2" timestamp="1620299912217">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="645" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1620299609220" />
+    <state x="645" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1620299912217" />
     <state x="492" y="184" key="SettingsEditor" timestamp="1620299428354">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="492" y="184" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1620299428354" />
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1620299613866">
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1620299914431">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1620299613866" />
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1620299914431" />
   </component>
 </project>
