@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0708ae71-d92e-4ef2-852e-229a27fb4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Description_ru.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.yan-i18n.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.yan-i18n.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Description_pl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Description_pl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/ru.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,8 @@
         <option value="$PROJECT_DIR$/Description_ua.txt" />
         <option value="$PROJECT_DIR$/Description_en.txt" />
         <option value="$PROJECT_DIR$/ua.json" />
+        <option value="$PROJECT_DIR$/ru.json" />
+        <option value="$PROJECT_DIR$/Description_pl.txt" />
       </list>
     </option>
   </component>
