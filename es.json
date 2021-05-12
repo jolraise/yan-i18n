@@ -1,13 +1,15 @@
-- Daily awards 
-- Review 
-- Thank you for playing Yan’s World! Help us to improve the game. Please leave a positive comment!
-- I like it!
-- Needs improvement 
-- Level 
-- Resources 
-- Characters 
-- Advertisement 
-- Turn off all the forced ads. Resources ads stays. 
-- Sale
-- Choose
-- Sorry for the ads. We want to continue the  development of  the game . You can turn off ads in the store.
+{
+  "DailyReward": "Recompensa diaria",
+  "Rate": "Respuesta",
+  "RateText": "Gracias, por jugar Yan's World!\n Ayuda a mejorar el juego. Por favor, deje una opinión positiva!",
+  "LikeIt": "Me gusta!",
+  "NeedsImprovement": "Necesita mejora",
+  "Level": "Nivel",
+  "Resource": "Recursos",
+  "Hero": "Héroes",
+  "Ads": "Publicidad",
+  "AdsOffExplanation": "Desactivar todo\n publicidad forzada.\n publicidad para \n quedan recursos",
+  "Sale": "Venta",
+  "Select": "Elegir",
+  "SorryForAds": "Perdon por el anuncio.\n Queremos continuar\n desarrollo de juegos.\n puede deshabilitar la publicidad en la tienda."
+}
