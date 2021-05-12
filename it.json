@@ -1,1 +1,15 @@
-
+{
+  "DailyReward": "Ricompensa giornaliera",
+  "Rate": "Risposta",
+  "RateText": "Grazie, per aver giocato a Yan's World!\n Aiuta il gioco a migliorare. Si prega di lasciare un parere positivo!",
+  "LikeIt": "Mi piace!",
+  "NeedsImprovement": "Ha bisogno di miglioramento",
+  "Level": "Livello",
+  "Resource": "Risorse",
+  "Hero": "Eroi",
+  "Ads": "Pubblicità",
+  "AdsOffExplanation": "Disabilita tutta la\n pubblicità forzata.\n pubblicità per\n restano risorse.",
+  "Sale": "Vendita",
+  "Select": "Scegliere",
+  "SorryForAds": "Ci scusiamo per l'annuncio.\n Vogliamo continuare\n sviluppo del gioco.\n puoi disabilitare la pubblicità in negozio."
+}
