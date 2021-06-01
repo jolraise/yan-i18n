@@ -1,13 +1,15 @@
-- Codzienne nagrody
- - Przejrzeć
- - Dziękujemy za grę w Yan’s World!  Pomóż nam ulepszyć grę.  Zostaw pozytywny komentarz!
- - Lubię to!
- - Wymaga ulepszeń
- - Poziom
- - Zasoby
- - Postacie
- - Reklama
- - Wyłącz wszystkie wymuszone reklamy.  Zasoby reklam pozostają.
- - Sprzedaż
- - Wybierz
- - Przepraszamy za reklamy.  Chcemy kontynuować rozwój gry.  Możesz wyłączyć reklamy w sklepie.
+{
+  "DailyReward": "Codzienne nagrody",
+  "Rate": "Przejrzeć",
+  "RateText": "Dziękujemy, za grę w Yan’s World!\n Pomóż nam ulepszyć grę. Zostaw pozytywny komentarz!",
+  "LikeIt": "Lubię to!",
+  "NeedsImprovement": "Wymaga ulepszeń",
+  "Level": "Poziom",
+  "Resource": "Zasoby",
+  "Hero": "Postacie",
+  "Ads": "Reklama",
+  "AdsOffExplanation": "Wyłącz wszystkie\n wymuszone reklamy.\n Zasoby reklam \n pozostają.",
+  "Sale": "Sprzedaż",
+  "Select": "Wybierz",
+  "SorryForAds": "Przepraszamy za reklamy.\n Chcemy kontynuować\n rozwój gry.\n Możesz wyłączyć reklamy w sklepie."
+}
